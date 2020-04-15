@@ -61,9 +61,9 @@ until i == 0
 
 -- sort of like structs or hash tables in C, and like Python dictionaries
 local person = {}
-person.name = 'Colton Ogden'
-person.age = 26
-person.height = 69.5
+person.name = 'sachin vegad'
+person.age = 18
+person.height = 47.5
 
 -- bracket and dot syntax to access table fields
 print(person['name'])
